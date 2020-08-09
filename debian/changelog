@@ -1,4 +1,4 @@
-gtsam (4.0.3-1snap~1~0xxxx) UNRELEASED; urgency=low
+gtsam (4.0.3-1) UNRELEASED; urgency=low
 
   [ Frank Dellaert ]
   * Added a number of docker images

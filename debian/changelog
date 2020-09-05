@@ -1,5 +1,5 @@
-gtsam (4.1.0-1ubuntu2) xenial; urgency=medium
+gtsam (4.1.0-1ubuntu3) focal; urgency=medium
 
   * initial release of 4.1.0 (still a release candidate only?)
 
- -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sat, 05 Sep 2020 08:25:19 -0400
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sat, 05 Sep 2020 08:30:16 -0400
